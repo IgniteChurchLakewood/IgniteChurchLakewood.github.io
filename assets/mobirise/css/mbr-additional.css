@@ -877,40 +877,6 @@ a {
 .cid-trSX4hWgIv .card-text {
   text-align: left;
 }
-.cid-tqsXKuDKoS {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
-  background-color: #ffffff;
-}
-.cid-tqsXKuDKoS .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tqsXKuDKoS .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (min-width: 1500px) {
-  .cid-tqsXKuDKoS .container {
-    max-width: 1400px;
-  }
-}
-.cid-tqsXKuDKoS .mbr-iconfont {
-  display: block;
-  font-size: 5rem;
-  color: #6592e6;
-  margin-bottom: 2rem;
-}
-.cid-tqsXKuDKoS .card-wrapper {
-  margin-top: 3rem;
-}
-.cid-tqsXKuDKoS .row {
-  justify-content: center;
-}
 .cid-trTnwp8Zmz {
   padding-top: 5rem;
   padding-bottom: 5rem;
