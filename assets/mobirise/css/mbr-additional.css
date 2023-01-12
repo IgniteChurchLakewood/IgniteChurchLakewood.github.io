@@ -709,6 +709,57 @@ a {
     width: 70%;
   }
 }
+.cid-tsIOYaIiTl {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tsIOYaIiTl img,
+.cid-tsIOYaIiTl .item-img {
+  width: 100%;
+}
+.cid-tsIOYaIiTl .item:focus,
+.cid-tsIOYaIiTl span:focus {
+  outline: none;
+}
+.cid-tsIOYaIiTl .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-tsIOYaIiTl .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-tsIOYaIiTl .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tsIOYaIiTl .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-tsIOYaIiTl .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-tsIOYaIiTl .mbr-section-title {
+  color: #232323;
+}
+.cid-tsIOYaIiTl .mbr-text,
+.cid-tsIOYaIiTl .mbr-section-btn {
+  text-align: center;
+}
+.cid-tsIOYaIiTl .item-title {
+  text-align: center;
+}
+.cid-tsIOYaIiTl .item-subtitle {
+  text-align: left;
+}
 .cid-trT1Mp1p2z {
   padding-top: 4rem;
   padding-bottom: 1rem;
@@ -845,57 +896,6 @@ a {
   -webkit-touch-callout: none;
   -khtml-user-select: none;
   -webkit-tap-highlight-color: transparent;
-}
-.cid-tsIOYaIiTl {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tsIOYaIiTl img,
-.cid-tsIOYaIiTl .item-img {
-  width: 100%;
-}
-.cid-tsIOYaIiTl .item:focus,
-.cid-tsIOYaIiTl span:focus {
-  outline: none;
-}
-.cid-tsIOYaIiTl .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-}
-.cid-tsIOYaIiTl .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  background: #fafafa;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-tsIOYaIiTl .item-wrapper .item-content {
-    padding: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-tsIOYaIiTl .item-wrapper .item-content {
-    padding: 1rem;
-  }
-}
-.cid-tsIOYaIiTl .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-tsIOYaIiTl .mbr-section-title {
-  color: #232323;
-}
-.cid-tsIOYaIiTl .mbr-text,
-.cid-tsIOYaIiTl .mbr-section-btn {
-  text-align: center;
-}
-.cid-tsIOYaIiTl .item-title {
-  text-align: center;
-}
-.cid-tsIOYaIiTl .item-subtitle {
-  text-align: left;
 }
 .cid-tsDKFCcBsJ {
   padding-top: 5rem;
